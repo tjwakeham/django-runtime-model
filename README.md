@@ -12,3 +12,5 @@ runtime model may not be available at the time Django links models.
 Requires - `grapelli` and `grapelli_nested` for the admin interface.
 
 There are a couple of apps included which demonstrate adding new field types. 
+
+code/dyanmic is where the meat of the app lives
